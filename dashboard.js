@@ -203,7 +203,9 @@ async function runCycle() {
       try {
         const sig = await agentToAgentTransfer(agent.name, target, 0.05);
         const shortSig = sig.slice(0, 16) + "...";
+        const explorerLink = `https://explorer.solana.com/tx/${sig}?cluster=devnet`;
         addLog(`{green-fg} Success! Sig: ${shortSig}{/green-fg}`);
+        addLog(`{blue-fg} Explorer: ${explorerLink}{/blue-fg}`);
       } catch (err) {
         addLog(`{red-fg} Failed: ${err.message}{/red-fg}`);
       }
