@@ -6,7 +6,7 @@
 
 Let me tell you what got me thinking about this project.
 
-In Lagos, if you want to send money to someone, you have two options. You can go to the bank yourself, fill out a form, wait in line, and authorize the transfer manually. Or — if you trust someone enough — you can give them a signed authority letter and they handle it on your behalf, following your instructions, without calling you for approval every single time.
+In Lagos, if you want to send money to someone, you have two options. You can go to the bank yourself, fill out a form, wait in line, and authorize the transfer manually. Or, if you trust someone enough, you can give them a signed authority letter and they handle it on your behalf, following your instructions, without calling you for approval every single time.
 
 An agentic wallet is the second option, but for the blockchain. It is a wallet that holds funds, monitors conditions, makes decisions, and executes transactions — all without waiting for a human to click approve. This is not a future concept. This prototype proves it works today, on Solana devnet, with real verifiable transactions.
 
