@@ -1,0 +1,20 @@
+{
+  "name": "agentic-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.13.5",
+    "blessed": "^0.1.81",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.3.1"
+  }
+}
