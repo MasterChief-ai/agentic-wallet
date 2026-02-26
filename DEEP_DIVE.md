@@ -151,7 +151,7 @@ The reason this was possible is that Solana's tooling — particularly `@solana/
 
 But more than the technology, what this project taught me is the core insight behind agentic wallets: autonomy requires trust, and trust requires security. You cannot give an agent permission to move funds autonomously unless you are confident the keys are protected, the decisions are sound, and the actions are auditable. Every design decision in this system — the encryption, the balance checks, the blockhash, the isolated wallets — exists to build that trust.
 
-That is what an agentic wallet is really about. Not just automation. Trustworthy automation.
+That is what an agentic wallet is really about. Not just automation.
 
 
 *Built on Solana Devnet | Open Source | [GitHub Repository](https://github.com/MasterChief-ai/agentic-wallet)
